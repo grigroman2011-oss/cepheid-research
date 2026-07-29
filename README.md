@@ -18,7 +18,7 @@ To clean up noise and account for observational errors, the following filters we
 * **Absolute Magnitude Range:** $-10 \le M \le 10$ (to capture the main sequence of variability while excluding extreme outliers).
 
 ## ⚠️ Known Limitations & Systematic Errors
-* **Parallax Zero-Point Offset:** Gaia DR3 data suffers from a well-documented systematic parallax zero-point offset (approx. –17 $\mu$as for bright sources). While this correction was not explicitly applied in this preliminary analysis, acknowledging it is crucial, as uncorrected offsets can shift calculated stellar distances and absolute magnitudes by ~2–5%.
+* **Parallax Zero-Point Offset:** Gaia DR3 data suffers from a well-documented systematic parallax zero-point offset (approx. –17 μas for bright sources). While this correction was not explicitly applied in this preliminary analysis, acknowledging it is crucial, as uncorrected offsets can shift calculated stellar distances and absolute magnitudes by ~2–5%.
 
 ## 📈 Results & Trend Analysis
 * Distances are calculated as $d = \frac{1000}{\varpi}$, and absolute magnitudes $M$ are derived using Gaia's $G$-band photometry. 
