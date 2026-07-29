@@ -18,10 +18,10 @@ To clean up noise and account for observational errors, the following filters we
 * **Absolute Magnitude Range:** $-10 \le M \le 10$ (to capture the main sequence of variability while excluding extreme outliers).
 
 ## 📈 Results & Trend Analysis
-Distances are calculated as $d = \frac{1000}{\varpi}$, and absolute magnitudes $M$ are derived using Gaia's $G$-band photometry. 
-The linear regression fit yields the following relation:
-$$\text{Trend: } M = -2.23 \cdot \log P + 0.52$$
-*Note: The Y-axis is inverted following standard astronomical conventions (brighter objects with more negative magnitudes are placed at the top).*
+* Distances are calculated as $d = \frac{1000}{\varpi}$, and absolute magnitudes $M$ are derived using Gaia's $G$-band photometry. 
+* The linear regression fit yields the following relation:
+* $$\text{Trend: } M = -2.23 \cdot \log P + 0.52$$
+* *Note: The Y-axis is inverted following standard astronomical conventions (brighter objects with more negative magnitudes are placed at the top).*
 
 ## 🛠️ Tech Stack
 * **Python 3.x**
