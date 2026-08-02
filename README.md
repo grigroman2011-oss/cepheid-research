@@ -25,6 +25,7 @@ To clean up noise and account for observational errors, the following filters we
 * The linear regression fit yields the following relation:
 * $$\text{Trend: } M = -2.23 \cdot \log P + 0.52$$
 * *Note: The Y-axis is inverted following standard astronomical conventions (brighter objects with more negative magnitudes are placed at the top).*
+
 ![Period-Madnitude Dependence for Cepheids](plot1.png)
 
 ## 🛠️ Tech Stack
