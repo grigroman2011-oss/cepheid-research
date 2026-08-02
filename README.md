@@ -23,7 +23,7 @@ To clean up noise and account for observational errors, the following filters we
 ## 📈 Results & Trend Analysis
 * Distances are calculated as $d = \frac{1000}{\varpi}$, and absolute magnitudes $M$ are derived using Gaia's $G$-band photometry. 
 * The linear regression fit yields the following relation:
-* $$\text{Trend: } M = -2.23 \cdot \log P + 0.52$$
+* $$\text{Trend: } M = -2.53 \cdot \log P + 1.04$$
 * *Note: The Y-axis is inverted following standard astronomical conventions (brighter objects with more negative magnitudes are placed at the top).*
 
 ![Period-Madnitude Dependence for Cepheids](plot1.png)
