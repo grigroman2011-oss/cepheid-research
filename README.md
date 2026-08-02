@@ -40,7 +40,7 @@ To clean up noise and account for observational errors, the following filters we
 3. Execute the processing and visualization blocks to generate the Period-Luminosity scatter plot.
 
 ## 📝 Conclusion
-The derived Period–Luminosity relation for our sample of Galactic Cepheids is consistent with the classical Leavitt's Law, confirming its validity in the optical band. The slope of –2.23 aligns well with established calibrations, while the colour gradient reveals a distance distribution extending up to ~5 kpc. This work demonstrates that Gaia DR3 data, when properly filtered, can serve as a powerful tool for large-scale stellar variability studies.
+The derived Period–Luminosity relation for our sample of Galactic Cepheids is consistent with the classical Leavitt's Law, confirming its validity in the optical band. The slope of –2.53 aligns well with established calibrations, while the colour gradient reveals a distance distribution extending up to ~5 kpc. This work demonstrates that Gaia DR3 data, when properly filtered, can serve as a powerful tool for large-scale stellar variability studies.
 Beyond confirming the well-known relation, this project was my first hands-on journey into the world of astronomical data — from writing ADQL queries to visualising real stars.
 
 ## 📚 References & Data Sources
